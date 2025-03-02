@@ -1,0 +1,677 @@
+CRITICAL - 2025-02-25 02:39:45 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:39:47 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:39:55 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:40:53 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:42:26 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:43:28 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:44:56 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:46:10 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:47:47 --> ErrorException: Attempt to read property "name" on array
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 29.
+ 1 APPPATH\Services\ClientService.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(95): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:48:18 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 31.
+ 1 APPPATH\Services\ClientService.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(95): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:50:16 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 31.
+ 1 APPPATH\Services\ClientService.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(95): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:51:27 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: clients]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(82): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 02:58:40 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 31.
+ 1 APPPATH\Services\ClientService.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(97): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:08:21 --> ErrorException: Attempt to read property "name" on array
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 29.
+ 1 APPPATH\Services\ClientService.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(97): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:08:30 --> TypeError: CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 134.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->run()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:08:48 --> TypeError: CodeIgniter\Validation\Validation::withRequest(): Argument #1 ($request) must be of type CodeIgniter\HTTP\RequestInterface, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 506.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->withRequest()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:08:55 --> TypeError: CodeIgniter\Validation\Validation::withRequest(): Argument #1 ($request) must be of type CodeIgniter\HTTP\RequestInterface, array given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 506.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->withRequest()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:09:21 --> ErrorException: Attempt to read property "name" on array
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 29.
+ 1 APPPATH\Services\ClientService.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(97): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:09:28 --> TypeError: CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 134.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->run()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:10:01 --> ErrorException: Attempt to read property "name" on array
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 29.
+ 1 APPPATH\Services\ClientService.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(98): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:10:43 --> TypeError: CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 134.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->run()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:11:37 --> TypeError: CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 92
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 134.
+ 1 APPPATH\Controllers\ClientController.php(92): CodeIgniter\Validation\Validation->run()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:12:04 --> TypeError: CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 134.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->run()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:12:24 --> TypeError: CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\aliss\Documents\Projetos\Codeignater\purchase-order-api\app\Controllers\ClientController.php on line 93
+[Method: POST, Route: clients]
+in SYSTEMPATH\Validation\Validation.php on line 134.
+ 1 APPPATH\Controllers\ClientController.php(93): CodeIgniter\Validation\Validation->run()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:13:21 --> ErrorException: Undefined property: stdClass::$cnpj
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 96.
+ 1 APPPATH\Controllers\ClientController.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:13:53 --> ErrorException: Attempt to read property "name" on array
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 29.
+ 1 APPPATH\Services\ClientService.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(97): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:14:18 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 31.
+ 1 APPPATH\Services\ClientService.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(97): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:17:26 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\Client"
+[Method: POST, Route: clients]
+in SYSTEMPATH\Model.php on line 822.
+ 1 SYSTEMPATH\Model.php(822): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH\BaseModel.php(820): CodeIgniter\Model->doProtectFieldsForInsert()
+ 3 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert()
+ 4 APPPATH\Services\ClientService.php(41): CodeIgniter\Model->insert()
+ 5 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 03:18:07 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\Client"
+[Method: POST, Route: clients]
+in SYSTEMPATH\Model.php on line 822.
+ 1 SYSTEMPATH\Model.php(822): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH\BaseModel.php(820): CodeIgniter\Model->doProtectFieldsForInsert()
+ 3 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert()
+ 4 APPPATH\Services\ClientService.php(41): CodeIgniter\Model->insert()
+ 5 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:22:56 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 52.
+ 1 APPPATH\Services\ClientService.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:23:11 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 52.
+ 1 APPPATH\Services\ClientService.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:23:13 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 52.
+ 1 APPPATH\Services\ClientService.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:24:27 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 33.
+ 1 APPPATH\Services\ClientService.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:24:36 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 33.
+ 1 APPPATH\Services\ClientService.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:24:43 --> ErrorException: Undefined property: stdClass::$company_name
+[Method: POST, Route: clients]
+in APPPATH\Services\ClientService.php on line 33.
+ 1 APPPATH\Services\ClientService.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH\Controllers\ClientController.php(102): App\Services\ClientService->store()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:27:04 --> ErrorException: Undefined property: stdClass::$cpf
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 86.
+ 1 APPPATH\Controllers\ClientController.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:27:41 --> ErrorException: Undefined property: stdClass::$cpf
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 86.
+ 1 APPPATH\Controllers\ClientController.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:27:57 --> ErrorException: Undefined property: stdClass::$cpf
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 86.
+ 1 APPPATH\Controllers\ClientController.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:30:26 --> ErrorException: Undefined property: stdClass::$cpf
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 86.
+ 1 APPPATH\Controllers\ClientController.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:31:17 --> ErrorException: Undefined property: stdClass::$cpf
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 86.
+ 1 APPPATH\Controllers\ClientController.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 13:31:52 --> ErrorException: Undefined property: stdClass::$cpf
+[Method: POST, Route: clients]
+in APPPATH\Controllers\ClientController.php on line 85.
+ 1 APPPATH\Controllers\ClientController.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->create()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:21:21 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:22:04 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:22:21 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:22:56 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:23:25 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:23:39 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:24:04 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:24:14 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:24:45 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:24:59 --> ErrorException: Undefined variable $data
+[Method: PUT, Route: clients/1]
+in APPPATH\Controllers\ClientController.php on line 127.
+ 1 APPPATH\Controllers\ClientController.php(127): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 15:25:23 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: PUT, Route: clients/1]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\ClientController.php(127): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 16:29:56 --> Error: Call to a member function find() on null
+[Method: PUT, Route: clients/1]
+in APPPATH\Controllers\ClientController.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 16:30:09 --> Error: Call to a member function find() on null
+[Method: PUT, Route: clients/1]
+in APPPATH\Controllers\ClientController.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 16:35:40 --> ErrorException: Undefined array key "header"
+[Method: PUT, Route: clients/1]
+in APPPATH\Controllers\ClientController.php on line 150.
+ 1 APPPATH\Controllers\ClientController.php(150): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 16:36:24 --> ErrorException: Undefined array key "header"
+[Method: PUT, Route: clients/1]
+in APPPATH\Controllers\ClientController.php on line 150.
+ 1 APPPATH\Controllers\ClientController.php(150): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 16:36:44 --> TypeError: Cannot access offset of type string on string
+[Method: PUT, Route: clients/1]
+in APPPATH\Controllers\ClientController.php on line 150.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
+CRITICAL - 2025-02-25 16:44:21 --> Error: Cannot use object of type stdClass as array
+[Method: PUT, Route: clients/1]
+in APPPATH\Services\ClientService.php on line 100.
+ 1 APPPATH\Controllers\ClientController.php(148): App\Services\ClientService->update()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ClientController->update()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\aliss\\Documents\\Projetos\\Codeignater\\purchase-order-api\\public\\index.php')
